@@ -1,1 +1,1 @@
-# Neural_Network_Series_Assignments
+# Resolution of Exercise: Neural_Network_Sprint
